@@ -1,0 +1,23 @@
+{
+  "name": "redistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foosux/redisTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foosux/redisTest/issues"
+  },
+  "homepage": "https://github.com/Foosux/redisTest#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "redis": "^2.8.0"
+  }
+}
